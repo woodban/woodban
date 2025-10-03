@@ -42,4 +42,3 @@
   <img src="https://komarev.com/ghpvc/?username=woodban&label=Profile+Views&color=green&style=flat-square" alt="Profile Views"/>  
 </p>
 
-⭐ *Always exploring, always building — from circuits to code!*  
