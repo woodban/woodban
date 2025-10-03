@@ -1,5 +1,5 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Nikil+👋;Motivated+ECE+Student+💡;Passionate+about+Electronics+⚡;IoT+%7C+VLSI+%7C+Embedded+Systems+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Nikil+👋;ECE+Student+💡;Passionate+about+Electronics+⚡;IoT+%7C+VLSI+%7C+Embedded+Systems+💻)](https://git.io/typing-svg)
 
 ---
 
@@ -14,7 +14,6 @@
 ## 🛠️ Tech & Tools  
 
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -28,13 +27,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woodban&layout=compact&theme=tokyonight" height="160"/>
 </p>
-
----
-
-## 🌐 Connect with Me  
-
-📍 **Madras**  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://in.linkedin.com/in/hari-ram-nikil-p)  
 
 ---
 
